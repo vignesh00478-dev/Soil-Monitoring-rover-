@@ -403,7 +403,7 @@ Collect field data.
 Understand changing conditions.  
 Support smarter crop-rotation decisions.
 ## RESULT VIDEO
-![](result-video.mp4)
+
 
 https://github.com/user-attachments/assets/3a4053b1-a713-4baa-a491-faf828e5e38d
 
